@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="C:\Users\elly\Documents\Programming\Garmin\Relearn\manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnBackground.mc" id="1" lineNum="8" parent="globals/Background" pc="268435456" symbol="initialize"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnBackground.mc" id="1" lineNum="9" parent="globals/Background" pc="268435460" symbol="initialize"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnBackground.mc" id="1" lineNum="13" parent="globals/Background" pc="268435481" symbol="initialize"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnBackground.mc" id="2" lineNum="16" parent="globals/Background" pc="268435502" symbol="draw"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnBackground.mc" id="2" lineNum="18" parent="globals/Background" pc="268435506" symbol="draw"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnBackground.mc" id="2" lineNum="19" parent="globals/Background" pc="268435555" symbol="draw"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnBackground.mc" id="3" lineNum="6" parent="globals/Background" pc="268437690" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnBackground.mc" id="3" lineNum="6" parent="globals/Background" pc="268437690" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="5" lineNum="21" parent="globals/RelearnView" pc="268435568" symbol="initialize"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="5" lineNum="22" parent="globals/RelearnView" pc="268435572" symbol="initialize"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="6" lineNum="26" parent="globals/RelearnView" pc="268435591" symbol="onLayout"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="6" lineNum="27" parent="globals/RelearnView" pc="268435595" symbol="onLayout"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="6" lineNum="28" parent="globals/RelearnView" pc="268435638" symbol="onLayout"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="6" lineNum="29" parent="globals/RelearnView" pc="268435681" symbol="onLayout"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="6" lineNum="30" parent="globals/RelearnView" pc="268435724" symbol="onLayout"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="6" lineNum="31" parent="globals/RelearnView" pc="268435767" symbol="onLayout"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="6" lineNum="32" parent="globals/RelearnView" pc="268435810" symbol="onLayout"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="6" lineNum="33" parent="globals/RelearnView" pc="268435847" symbol="onLayout"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="7" lineNum="39" parent="globals/RelearnView" pc="268435877" symbol="onShow"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="8" lineNum="43" parent="globals/RelearnView" pc="268435882" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="8" lineNum="44" parent="globals/RelearnView" pc="268435886" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="8" lineNum="45" parent="globals/RelearnView" pc="268435893" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="8" lineNum="46" parent="globals/RelearnView" pc="268435929" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="8" lineNum="48" parent="globals/RelearnView" pc="268435941" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="8" lineNum="49" parent="globals/RelearnView" pc="268435953" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="8" lineNum="52" parent="globals/RelearnView" pc="268435976" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="8" lineNum="53" parent="globals/RelearnView" pc="268435989" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="8" lineNum="54" parent="globals/RelearnView" pc="268436014" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="8" lineNum="55" parent="globals/RelearnView" pc="268436050" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="8" lineNum="58" parent="globals/RelearnView" pc="268436109" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="8" lineNum="59" parent="globals/RelearnView" pc="268436138" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="8" lineNum="63" parent="globals/RelearnView" pc="268436194" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="8" lineNum="64" parent="globals/RelearnView" pc="268436219" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="8" lineNum="65" parent="globals/RelearnView" pc="268436236" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="8" lineNum="66" parent="globals/RelearnView" pc="268436272" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="8" lineNum="67" parent="globals/RelearnView" pc="268436283" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="8" lineNum="70" parent="globals/RelearnView" pc="268436345" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="8" lineNum="74" parent="globals/RelearnView" pc="268436407" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="8" lineNum="76" parent="globals/RelearnView" pc="268436419" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="8" lineNum="77" parent="globals/RelearnView" pc="268436432" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="8" lineNum="78" parent="globals/RelearnView" pc="268436461" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="8" lineNum="80" parent="globals/RelearnView" pc="268436520" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="8" lineNum="81" parent="globals/RelearnView" pc="268436533" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="8" lineNum="82" parent="globals/RelearnView" pc="268436562" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="8" lineNum="84" parent="globals/RelearnView" pc="268436630" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="8" lineNum="85" parent="globals/RelearnView" pc="268436643" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="8" lineNum="86" parent="globals/RelearnView" pc="268436672" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="9" lineNum="93" parent="globals/RelearnView" pc="268436756" symbol="onHide"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="10" lineNum="97" parent="globals/RelearnView" pc="268436761" symbol="onExitSleep"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="10" lineNum="98" parent="globals/RelearnView" pc="268436765" symbol="onExitSleep"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="10" lineNum="99" parent="globals/RelearnView" pc="268436775" symbol="onExitSleep"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="11" lineNum="103" parent="globals/RelearnView" pc="268436792" symbol="onEnterSleep"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="11" lineNum="104" parent="globals/RelearnView" pc="268436796" symbol="onEnterSleep"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="11" lineNum="105" parent="globals/RelearnView" pc="268436806" symbol="onEnterSleep"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="12" lineNum="109" parent="globals/RelearnView" pc="268436823" symbol="&lt;globals/RelearnView/&lt;&gt;getTimeString&gt;"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="12" lineNum="111" parent="globals/RelearnView" pc="268436827" symbol="&lt;globals/RelearnView/&lt;&gt;getTimeString&gt;"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="12" lineNum="112" parent="globals/RelearnView" pc="268436834" symbol="&lt;globals/RelearnView/&lt;&gt;getTimeString&gt;"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="12" lineNum="113" parent="globals/RelearnView" pc="268436851" symbol="&lt;globals/RelearnView/&lt;&gt;getTimeString&gt;"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="12" lineNum="114" parent="globals/RelearnView" pc="268436861" symbol="&lt;globals/RelearnView/&lt;&gt;getTimeString&gt;"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="12" lineNum="115" parent="globals/RelearnView" pc="268436879" symbol="&lt;globals/RelearnView/&lt;&gt;getTimeString&gt;"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="12" lineNum="116" parent="globals/RelearnView" pc="268436890" symbol="&lt;globals/RelearnView/&lt;&gt;getTimeString&gt;"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="12" lineNum="118" parent="globals/RelearnView" pc="268436900" symbol="&lt;globals/RelearnView/&lt;&gt;getTimeString&gt;"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="12" lineNum="119" parent="globals/RelearnView" pc="268436925" symbol="&lt;globals/RelearnView/&lt;&gt;getTimeString&gt;"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="12" lineNum="120" parent="globals/RelearnView" pc="268436936" symbol="&lt;globals/RelearnView/&lt;&gt;getTimeString&gt;"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="12" lineNum="121" parent="globals/RelearnView" pc="268436946" symbol="&lt;globals/RelearnView/&lt;&gt;getTimeString&gt;"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="12" lineNum="125" parent="globals/RelearnView" pc="268436970" symbol="&lt;globals/RelearnView/&lt;&gt;getTimeString&gt;"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="12" lineNum="126" parent="globals/RelearnView" pc="268436998" symbol="&lt;globals/RelearnView/&lt;&gt;getTimeString&gt;"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="12" lineNum="127" parent="globals/RelearnView" pc="268437005" symbol="&lt;globals/RelearnView/&lt;&gt;getTimeString&gt;"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="12" lineNum="130" parent="globals/RelearnView" pc="268437026" symbol="&lt;globals/RelearnView/&lt;&gt;getTimeString&gt;"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="13" lineNum="133" parent="globals/RelearnView" pc="268437091" symbol="&lt;globals/RelearnView/&lt;&gt;getBatteryString&gt;"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="13" lineNum="134" parent="globals/RelearnView" pc="268437095" symbol="&lt;globals/RelearnView/&lt;&gt;getBatteryString&gt;"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="13" lineNum="135" parent="globals/RelearnView" pc="268437118" symbol="&lt;globals/RelearnView/&lt;&gt;getBatteryString&gt;"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="13" lineNum="136" parent="globals/RelearnView" pc="268437125" symbol="&lt;globals/RelearnView/&lt;&gt;getBatteryString&gt;"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="13" lineNum="137" parent="globals/RelearnView" pc="268437130" symbol="&lt;globals/RelearnView/&lt;&gt;getBatteryString&gt;"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="13" lineNum="139" parent="globals/RelearnView" pc="268437140" symbol="&lt;globals/RelearnView/&lt;&gt;getBatteryString&gt;"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="14" lineNum="143" parent="globals/RelearnView" pc="268437186" symbol="&lt;globals/RelearnView/&lt;&gt;getDateString&gt;"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="14" lineNum="144" parent="globals/RelearnView" pc="268437190" symbol="&lt;globals/RelearnView/&lt;&gt;getDateString&gt;"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="14" lineNum="145" parent="globals/RelearnView" pc="268437238" symbol="&lt;globals/RelearnView/&lt;&gt;getDateString&gt;"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="14" lineNum="152" parent="globals/RelearnView" pc="268437314" symbol="&lt;globals/RelearnView/&lt;&gt;getDateString&gt;"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="15" lineNum="156" parent="globals/RelearnView" pc="268437318" symbol="&lt;globals/RelearnView/&lt;&gt;getTempString&gt;"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="15" lineNum="157" parent="globals/RelearnView" pc="268437322" symbol="&lt;globals/RelearnView/&lt;&gt;getTempString&gt;"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="15" lineNum="158" parent="globals/RelearnView" pc="268437339" symbol="&lt;globals/RelearnView/&lt;&gt;getTempString&gt;"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="15" lineNum="159" parent="globals/RelearnView" pc="268437346" symbol="&lt;globals/RelearnView/&lt;&gt;getTempString&gt;"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="15" lineNum="160" parent="globals/RelearnView" pc="268437356" symbol="&lt;globals/RelearnView/&lt;&gt;getTempString&gt;"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="15" lineNum="161" parent="globals/RelearnView" pc="268437378" symbol="&lt;globals/RelearnView/&lt;&gt;getTempString&gt;"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="15" lineNum="162" parent="globals/RelearnView" pc="268437396" symbol="&lt;globals/RelearnView/&lt;&gt;getTempString&gt;"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="15" lineNum="165" parent="globals/RelearnView" pc="268437408" symbol="&lt;globals/RelearnView/&lt;&gt;getTempString&gt;"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="16" lineNum="9" parent="globals/RelearnView" pc="268437758" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\source\\RelearnView.mc" id="16" lineNum="9" parent="globals/RelearnView" pc="268437758" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\resources\\RelearnApp.mc" id="18" lineNum="7" parent="globals/RelearnApp" pc="268437415" symbol="initialize"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\resources\\RelearnApp.mc" id="18" lineNum="8" parent="globals/RelearnApp" pc="268437419" symbol="initialize"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\resources\\RelearnApp.mc" id="19" lineNum="12" parent="globals/RelearnApp" pc="268437438" symbol="onStart"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\resources\\RelearnApp.mc" id="20" lineNum="16" parent="globals/RelearnApp" pc="268437443" symbol="onStop"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\resources\\RelearnApp.mc" id="21" lineNum="20" parent="globals/RelearnApp" pc="268437448" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\resources\\RelearnApp.mc" id="21" lineNum="21" parent="globals/RelearnApp" pc="268437452" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\resources\\RelearnApp.mc" id="22" lineNum="25" parent="globals/RelearnApp" pc="268437490" symbol="onSettingsChanged"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\resources\\RelearnApp.mc" id="22" lineNum="26" parent="globals/RelearnApp" pc="268437494" symbol="onSettingsChanged"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\resources\\RelearnApp.mc" id="23" lineNum="5" parent="globals/RelearnApp" pc="268437709" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\resources\\RelearnApp.mc" id="23" lineNum="5" parent="globals/RelearnApp" pc="268437709" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\resources\\RelearnApp.mc" id="24" lineNum="31" parent="globals" pc="268437511" symbol="getApp"/>
+        <entry filename="C:\\Users\\elly\\Documents\\Programming\\Garmin\\Relearn\\resources\\RelearnApp.mc" id="24" lineNum="32" parent="globals" pc="268437523" symbol="getApp"/>
+        <entry filename="Rez" id="26" lineNum="2" parent="globals/Rez/Drawables" pc="268437752" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="27" lineNum="8" parent="globals/Rez/Fonts" pc="268437754" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="28" lineNum="16" parent="globals/Rez/JsonData" pc="268437756" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="29" lineNum="25" parent="globals/Rez/Layouts" pc="268437540" symbol="WatchFace"/>
+        <entry filename="Rez" id="29" lineNum="27" parent="globals/Rez/Layouts" pc="268437552" symbol="WatchFace"/>
+        <entry filename="Rez" id="29" lineNum="29" parent="globals/Rez/Layouts" pc="268437671" symbol="WatchFace"/>
+        <entry filename="Rez" id="30" lineNum="18" parent="globals/Rez/Layouts" pc="268437755" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="31" lineNum="34" parent="globals/Rez/Menus" pc="268437753" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="32" lineNum="36" parent="globals/Rez/Strings" pc="268437757" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="33" lineNum="1" parent="globals/Rez" pc="268437728" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="33" lineNum="1" parent="globals/Rez" pc="268437728" symbol="&lt;init&gt;"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry field="true" id="30" symbol="smallFont"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry id="8389683" method="true" symbol="onSettingsChanged"/>
+        <entry field="true" id="32" symbol="inLowPower"/>
+        <entry id="36" method="true" symbol="&lt;globals/RelearnView/&lt;&gt;getBatteryString&gt;"/>
+        <entry field="true" id="21" symbol="ColorRed"/>
+        <entry field="true" id="25" symbol="MilitaryFormatTitle"/>
+        <entry id="8388924" module="true" symbol="Gregorian"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="20" symbol="ColorBlue"/>
+        <entry field="true" id="28" symbol="AppName"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="38" method="true" symbol="&lt;globals/RelearnView/&lt;&gt;getTempString&gt;"/>
+        <entry id="8389345" symbol="rezId"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry id="35" method="true" symbol="&lt;globals/RelearnView/&lt;&gt;getTimeString&gt;"/>
+        <entry field="true" id="34" symbol="shifted"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="8391489" module="true" symbol="Weather"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="12" module="true" symbol="Menus"/>
+        <entry id="8389275" method="true" symbol="getApp"/>
+        <entry field="true" id="24" symbol="ColorDarkGray"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry field="true" id="31" symbol="hollowFont"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="8389376" method="true" symbol="onEnterSleep"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry field="true" id="17" symbol="checkerboard"/>
+        <entry id="37" method="true" symbol="&lt;globals/RelearnView/&lt;&gt;getDateString&gt;"/>
+        <entry field="true" id="27" symbol="ColorWhite"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry field="true" id="18" symbol="mediumNum"/>
+        <entry field="true" id="26" symbol="ColorBlack"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry field="true" id="29" symbol="customFont"/>
+        <entry id="8389377" method="true" symbol="onExitSleep"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry field="true" id="33" symbol="canBurnIn"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry field="true" id="16" symbol="hollow"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry id="8389068" method="true" symbol="draw"/>
+        <entry field="true" id="14" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry field="true" id="13" symbol="deco"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry field="true" id="23" symbol="BackgroundColorTitle"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry field="true" id="8390146" module="true" object="true" symbol="Background"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="9" object="true" symbol="RelearnView"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry field="true" id="15" symbol="typeSmall"/>
+        <entry field="true" id="19" symbol="ColorLightGray"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry field="true" id="22" symbol="ForegroundColorTitle"/>
+        <entry id="10" object="true" symbol="RelearnApp"/>
+        <entry id="11" module="true" symbol="Layouts"/>
+        <entry field="true" id="8389846" symbol="type"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+    </symbolTable>
+    <localVars>
+        <entry endPc="268435500" name="dictionary" stackId="1" startPc="268435460"/>
+        <entry arg="true" endPc="268435567" name="dc" stackId="1" startPc="268435502"/>
+        <entry arg="true" endPc="268435876" name="dc" stackId="1" startPc="268435591"/>
+        <entry endPc="268436751" name="batteryString" stackId="6" startPc="268436419"/>
+        <entry endPc="268436751" name="tempString" stackId="5" startPc="268436419"/>
+        <entry endPc="268436751" name="dateString" stackId="4" startPc="268436419"/>
+        <entry endPc="268436754" name="timeString" stackId="3" startPc="268435886"/>
+        <entry endPc="268436754" name="bezels" stackId="2" startPc="268435886"/>
+        <entry arg="true" endPc="268436755" name="dc" stackId="1" startPc="268435882"/>
+        <entry endPc="268437089" name="hours" stackId="3" startPc="268436827"/>
+        <entry endPc="268437089" name="clockTime" stackId="2" startPc="268436827"/>
+        <entry endPc="268437089" name="timeFormat" stackId="1" startPc="268436827"/>
+        <entry endPc="268437184" name="charging" stackId="1" startPc="268437095"/>
+        <entry endPc="268437184" name="start" stackId="2" startPc="268437095"/>
+        <entry endPc="268437316" name="today" stackId="1" startPc="268437190"/>
+        <entry endPc="268437316" name="dateString" stackId="2" startPc="268437190"/>
+        <entry endPc="268437404" name="temp" stackId="2" startPc="268437346"/>
+        <entry endPc="268437413" name="cast" stackId="1" startPc="268437322"/>
+        <entry arg="true" endPc="268437442" name="state" stackId="1" startPc="268437438"/>
+        <entry arg="true" endPc="268437447" name="state" stackId="1" startPc="268437443"/>
+        <entry endPc="268437687" name="rez_cmp_local_bitmap_deco" stackId="2" startPc="268437552"/>
+        <entry arg="true" endPc="268437688" name="dc" stackId="1" startPc="268437540"/>
+    </localVars>
+    <annotations>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="Background"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="deco"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="Fonts" module="globals/Rez" symbol="type"/>
+        <annotationEntry annotation="initialized" class="Fonts" module="globals/Rez" symbol="typeSmall"/>
+        <annotationEntry annotation="initialized" class="Fonts" module="globals/Rez" symbol="hollow"/>
+        <annotationEntry annotation="initialized" class="Fonts" module="globals/Rez" symbol="checkerboard"/>
+        <annotationEntry annotation="initialized" class="Fonts" module="globals/Rez" symbol="mediumNum"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorLightGray"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorBlue"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorRed"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ForegroundColorTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BackgroundColorTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorDarkGray"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="MilitaryFormatTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorBlack"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorWhite"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+    </annotations>
+    <dataEntryOffsetMappings>
+        <dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry label="globals/Background" offset="166" parentId="globals" symbolId="Background" type="class"/>
+        <dataEntry label="globals/RelearnApp" offset="221" parentId="globals" symbolId="RelearnApp" type="class"/>
+        <dataEntry label="globals/Rez" offset="300" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/Rez/Drawables" offset="379" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Menus" offset="434" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry label="globals/Rez/Fonts" offset="465" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="536" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/JsonData" offset="575" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="606" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry label="globals/RelearnView" offset="717" parentId="globals" symbolId="RelearnView" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" endPc="268435501" name="initialize" parent="Background" startPc="268435456">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435567" name="draw" parent="Background" startPc="268435502">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437708" name="&lt;init&gt;" parent="Background" startPc="268437690">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435590" name="initialize" parent="RelearnView" startPc="268435568">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435876" name="onLayout" parent="RelearnView" startPc="268435591">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435881" name="onShow" parent="RelearnView" startPc="268435877">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436755" name="onUpdate" parent="RelearnView" startPc="268435882">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436760" name="onHide" parent="RelearnView" startPc="268436756">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436791" name="onExitSleep" parent="RelearnView" startPc="268436761">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436822" name="onEnterSleep" parent="RelearnView" startPc="268436792">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268437090" name="&lt;globals/RelearnView/&lt;&gt;getTimeString&gt;" parent="RelearnView" startPc="268436823">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268437185" name="&lt;globals/RelearnView/&lt;&gt;getBatteryString&gt;" parent="RelearnView" startPc="268437091">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268437317" name="&lt;globals/RelearnView/&lt;&gt;getDateString&gt;" parent="RelearnView" startPc="268437186">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268437414" name="&lt;globals/RelearnView/&lt;&gt;getTempString&gt;" parent="RelearnView" startPc="268437318">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437776" name="&lt;init&gt;" parent="RelearnView" startPc="268437758">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437437" name="initialize" parent="RelearnApp" startPc="268437415">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437442" name="onStart" parent="RelearnApp" startPc="268437438">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437447" name="onStop" parent="RelearnApp" startPc="268437443">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437489" name="getInitialView" parent="RelearnApp" startPc="268437448">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437510" name="onSettingsChanged" parent="RelearnApp" startPc="268437490">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437727" name="&lt;init&gt;" parent="RelearnApp" startPc="268437709">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437539" name="getApp" startPc="268437511">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437752" name="&lt;init&gt;" parent="Drawables" startPc="268437752">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437754" name="&lt;init&gt;" parent="Fonts" startPc="268437754">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437756" name="&lt;init&gt;" parent="JsonData" startPc="268437756">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437688" name="WatchFace" parent="Layouts" startPc="268437540">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437755" name="&lt;init&gt;" parent="Layouts" startPc="268437755">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437753" name="&lt;init&gt;" parent="Menus" startPc="268437753">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437757" name="&lt;init&gt;" parent="Strings" startPc="268437757">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437751" name="&lt;init&gt;" parent="Rez" startPc="268437728">
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>

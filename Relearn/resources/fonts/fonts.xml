@@ -1,0 +1,7 @@
+<fonts>
+    <font id="type" filename="type.fnt" filter="1234567890:"/>
+    <font id="typeSmall" filename="typeSmall.fnt" filter="1234567890,-ADFJMOSTWacdehilmnoprstuy "/>
+    <font id="hollow" filename="hollow.fnt" filter="1234567890:"/>
+    <font id="checkerboard" filename="checkerboard.fnt" filter="0:"/>
+    <font id="mediumNum" filename="numberType.fnt" filter="1234567890°%↑-"/>
+</fonts>
